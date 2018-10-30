@@ -1,0 +1,9 @@
+XTF FtnInfo
+FileCookieID: 15
+FileName: rssearch.zip
+FileSize: 867561
+FtnUrl: /ftn_handler/0afe014077b15499e4f03d33e47aed4672040378344b5f7cad80c632d4c0c7b74fd79586141b3cc2ca4691fc8c298952b13cb1472c7bc05521d64cac02d4ba4a
+FtnCookie:FTN5K=90542cc0
+FtnIP: 14.17.44.72
+FtnPort:80
+
